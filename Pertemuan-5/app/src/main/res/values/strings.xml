@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="hmj_name">Kartun 90an</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Doraemon</item>
+        <item>Crayon Sin-chan</item>
+        <item>SpongeBob SquarePants</item>
+        <item>Detektif Conan</item>
+        <item>Naruto</item>
+        <item>Dragon Ball</item>
+        <item>Dora the Explorer</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Doraemon (ドラえもん Doraemon) adalah judul sebuah manga dan anime yang sangat populer yang dikarang Fujiko F. Fujio (藤子・F・不二雄)
+            sejak 1 Juni 1969 dan berkisah tentang kehidupan seorang anak pemalas kelas 5 sekolah dasar yang bernama Nobita Nobi (野比のび太)
+            yang didatangi oleh sebuah robot kucing bernama Doraemon yang datang dari abad ke-22.
+            Doraemon dikirim untuk menolong Nobita agar keturunan Nobita dapat menikmati kesuksesannya
+            daripada harus menderita dari utang finansial yang akan terjadi pada masa depan yang disebabkan karena kebodohan Nobita.</item>
+        <item>Crayon Shin-chan (bahasa Jepang: クレヨンしんちゃん Hepburn: Kureyon Shin-chan), juga dikenal sebagai
+            Shin Chan, adalah sebuah seri manga Jepang yang ditulis dan diilustrasikan oleh Yoshito Usui.
+            Alur ceritanya mengikuti petualangan seorang anak berusia lima tahun bernama Shinnosuke
+            "Shin" Nohara beserta orangtua, adik bayinya, anjing, tetangga, dan teman-temannya dan berlatar di Kasukabe, Prefektur Saitama. </item>
+        <item>SpongeBob SquarePants adalah sebuah serial animasi yang paling terpopuler di Nickelodeon.
+            Pada awalnya serial kartun animasi ini ditayangkan pada tahun 1999 di Amerika Serikat dan dicipta oleh Stephen Hillenburg,
+            seorang animator dan ahli biologi laut, dan diterbitkan oleh perusahaannya, United Plankton Pictures Inc.</item>
+        <item>Detektif Conan, adalah sebuah seri manga shōnen Jepang bertema detektif yang ditulis dan diilustrasikan oleh Gosho Aoyama.
+            Manga ini telah dimuat dalam majalah Weekly Shōnen Sunday terbitan Shogakukan sejak tanggal 19 Januari 1994,
+            dan telah dibundel menjadi 96 volume tankōbon hingga tanggal 10 April 2019.
+            Karena adanya masalah hukum dengan hak nama Detective Conan, maka nama rilisan versi bahasa Inggris dari Funimation dan Viz diubah menjadi Case Closed.
+            Alur ceritanya mengisahkan tentang seorang detektif amatir yang tubuhnya menyusut menjadi kecil saat sedang menyelidiki sebuah organisasi misterius.
+            Dia kemudian memecahkan banyak kasus sambil meniru ayah temannya dan karakter lainnya.</item>
+        <item>Naruto (ナルト) adalah sebuah serial manga karya Masashi Kishimoto yang diadaptasi menjadi serial anime.
+            Manga Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja yang hiperaktif, periang,
+            dan ambisius yang ingin mewujudkan keinginannya untuk mendapatkan gelar Hokage, pemimpin dan ninja terkuat di desanya.
+            Serial ini didasarkan pada komik one-shot oleh Kishimoto yang diterbitkan dalam edisi Akamaru Jump pada Agustus 1997.</item>
+        <item>Dragon Ball (ドラゴンボール Doragon Bōru) adalah sebuah manga dan anime karya Akira Toriyama dari tahun 1984 sampai 1995.
+            Albumnya terdiri dari 42 buku dan di Indonesia diterbitkan oleh Elex Media Komputindo.
+            Sebelumnya Dragon Ball juga pernah diterbitkan oleh Rajawali Grafiti. </item>
+        <item>Dora the Explorer adalah serial animasi televisi anak-anak dari Amerika Serikat milik jaringan televisi kabel Nickelodeon.
+            Episode percobaan disiarkan tahun 1999 dan menjadi seri reguler mulai tahun 2000.
+            Serial ini dibuat oleh Chris Gifford, Valerie Walsh, dan Eric Weiner. </item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>http://doraemon.karpetkarakter.co/wp-content/uploads/2017/03/Karpet-Karakter-Motif-Doraemon.jpg</item>
+        <item>http://2.bp.blogspot.com/-cMfGibRZDLk/VX5rBo6mRqI/AAAAAAAACno/R50POp_ZVB8/s1600/sinchan.jpg</item>
+        <item>https://i.kym-cdn.com/photos/images/original/000/394/523/7b1.jpg</item>
+        <item>https://linnamcrlovers1210.files.wordpress.com/2007/12/conan.jpg</item>
+        <item>https://kabartani.com/wp-content/uploads/2016/09/Jadwal-Rilis-Naruto-Shippuden-Episode-478-dan-479-Uzumaki-Naruto.jpg</item>
+        <item>https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg</item>
+        <item>https://teamjabal.files.wordpress.com/2010/06/dora.jpg</item>
+    </string-array>
+</resources>
