@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900381801706",
+    "firebase_url": "https://daftarbelanjaharian-aeecc.firebaseio.com",
+    "project_id": "daftarbelanjaharian-aeecc",
+    "storage_bucket": "daftarbelanjaharian-aeecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900381801706:android:7688a726ab415dbc87ab93",
+        "android_client_info": {
+          "package_name": "com.example.daftarbelanjaharian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900381801706-7v6gcj7crv1340lpkksfkubp8ospqbn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daftarbelanjaharian",
+            "certificate_hash": "7afe23d3a55e91f6c6fae27c4dbe61eec4c1d0f3"
+          }
+        },
+        {
+          "client_id": "900381801706-p01gg2ik8e3g9hqet2geavdprcjgd2hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURxOfFsczNvnS5J61KZifbOhht2J4kho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900381801706-p01gg2ik8e3g9hqet2geavdprcjgd2hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
